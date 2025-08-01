@@ -47,7 +47,9 @@ The DI system behind this demo:
 > This is the first language-learning interface where the AI doesn’t just respond —  
 > it **knows who it’s supposed to sound like**, and **why**.
 
-# LanguageWise 
+
+
+## **LanguageWise** 
 
 Drei Szenarien. Drei Stile. Eine scroll-gesicherte Reise durch Sprache, Dialekt und Panda-Magie. 🐼✨
 
