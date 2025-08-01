@@ -15,9 +15,9 @@ Welcome, parents! Wondering why this app is different? Here’s the full list of
 
 ### 🧊 2. ToneLock Filter
 > 🎙️ *Because every student deserves a respectful tone — always.*
-- No sarcasm. No weird jokes. No fake “teen” energy.
+- Age-apprioruate language, tone, and positivity 
 - All responses pass through **ToneLock**, ensuring outputs are age-appropriate, warm, and affirming.
-- Feels like a brilliant older cousin, not a rogue chatbot.
+- Feels like a smart older cousin.
 
 ---
 
