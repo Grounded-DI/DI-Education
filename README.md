@@ -2,7 +2,7 @@
 ## The Logic-Safe Learning Universe
 **Education powered by principles, not predictions.**
 
-Welcome, parents! Wondering why this app is different? Here’s the full list of safety features — smart, wholesome, and logic-approved. 💡👨‍👩‍👧‍👦
+Welcome, parents! Wondering why Grounded DI's apps different? Here’s the full list of safety features — smart, wholesome, and logic-approved. 💡👨‍👩‍👧‍👦
 
 ---
 
