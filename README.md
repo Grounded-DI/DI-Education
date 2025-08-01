@@ -8,8 +8,7 @@ Welcome, parents! Wondering why this app is different? Here’s the full list of
 
 ### 🌟 1. ScrollLock Safety Mode (Always On)
 > 🧠 *Like a seatbelt for their brain.*
-- No hallucinations, no AI daydreaming.
-- Every output is scroll-anchored, meaning it’s been pre-verified and deterministic.
+- Unmatched accuracy. Every answer is logic-verified and auditable. 
 - Learners get **real structure**, not random guesses or chatbot fluff.
 
 ---
